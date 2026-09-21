@@ -2,8 +2,8 @@
 
 Goals:
 - What is LangChain (recap)?
-- What is langGraph?
 - LangGraph vs LangChain?
+- What is langGraph?
 - Why langGraph exists?
 - Should we still use LangChain?
 
