@@ -5,6 +5,7 @@ Goals:
 - LangGraph vs LangChain?
 - What is langGraph?
 - Why langGraph exists?
+- What to use when?
 - Should we still use LangChain?
 
 
