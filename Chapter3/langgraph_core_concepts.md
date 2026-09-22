@@ -85,6 +85,6 @@ Execution proceeds in rounds.
     - The messages are passed to downstream nodes via edges.
     - Nodes that receive messages become active for the next round.
 6. Halting Condition
-Execution stops when:
+- Execution stops when:
     - No nodes are active, and
     - No messages are in transit
