@@ -3,3 +3,4 @@ langchain
 langchain_google_genai
 dotenv
 ruff
+streamlit
