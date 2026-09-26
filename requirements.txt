@@ -4,3 +4,4 @@ langchain_google_genai
 dotenv
 ruff
 streamlit
+langgraph-checkpoint-sqlite
