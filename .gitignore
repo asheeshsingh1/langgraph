@@ -2,6 +2,7 @@
 __pycache__
 .env
 .ruff_cache
+**chatbot.db**
 chatbot.db
 .agents
 .claude
