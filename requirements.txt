@@ -5,3 +5,6 @@ dotenv
 ruff
 streamlit
 langgraph-checkpoint-sqlite
+langchain_openai
+langchain_classic
+langchain_community
