@@ -9,3 +9,4 @@ langchain_openai
 langchain_classic
 langchain_community
 langchain_mcp_adapters
+gmail-api-client==0.1.1
